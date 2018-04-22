@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.vcxproj", "{381C24AE-A101-4368-9AB6-677C5BBD9CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Debug|x64.ActiveCfg = Debug|x64
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Debug|x64.Build.0 = Debug|x64
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Debug|x86.Build.0 = Debug|Win32
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Release|x64.ActiveCfg = Release|x64
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Release|x64.Build.0 = Release|x64
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Release|x86.ActiveCfg = Release|Win32
+		{381C24AE-A101-4368-9AB6-677C5BBD9CCE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6587FC10-B60C-4ACB-8E58-66C42A2290CC}
+	EndGlobalSection
+EndGlobal
